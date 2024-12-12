@@ -1,7 +1,7 @@
 Students and USJ ID : 
      - Joseph Doumit Bader Tarabay - 221360
      - Sophia Jarjoura - 220590
-     - CHarbel Aoun - 220599
+     - Charbel Aoun - 220599
 
 In this project, we explore and implement various Data Structures in a functional programming paradigm. 
 
