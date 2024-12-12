@@ -20,6 +20,6 @@ For each structure, we have mainly 3 files :
 - 1 Cpp Functional Programming File
 - 1 Cpp OOP Implementation File
 
-Kindly, you will have to install and open documentation files attached with the strcutures, where we explain the program with some comparisions
+Kindly, you will have to install and open documentation files attached with the strcutures, where we explain the program with some comparisions.
 
 Thank you
